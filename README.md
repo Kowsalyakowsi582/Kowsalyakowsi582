@@ -1,5 +1,5 @@
-# 👩‍💻 About Me
-I'm Kowsalya, a passionate software developer with expertise in full-stack development, cloud technologies, and AI/data science. I enjoy building scalable solutions and contributing to open-source projects.
+# <img width="40" height="60" alt="image" src="https://github.com/user-attachments/assets/2ba82b8d-4b49-4c86-b9fc-579d446310e3" />  About Me
+I'm Kowsalya, a passionate <b>Software Developer</b> with expertise in <b>Full-stack development</b> , <b>Cloud technologies</b> , and <b>AI/ML & Data science</b>. I enjoy building scalable solutions and contributing to open-source projects.
 <p align="center">
   <img alt="Coder GIF" height=200 width=300 src="https://user-images.githubusercontent.com/74038190/213760705-0d5bf320-4f43-4352-b74b-0889ae726bf7.gif" />
   <img alt="Coder GIF" height="200" width="300" src="https://user-images.githubusercontent.com/74038190/213760677-e45ca5f7-d1aa-4c2c-91e0-573819287304.gif" />
@@ -92,12 +92,16 @@ I'm Kowsalya, a passionate software developer with expertise in full-stack devel
 
 ## 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Triv-ed&show_icons=true&theme=radical" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Triv-ed&layout=compact&theme=radical" alt="Top Languages" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Kowsalyakowsi582&show_icons=true&theme=radical" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kowsalyakowsi582&layout=compact&theme=radical" alt="Top Languages" height="165"/>
 </p>
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Triv-ed&theme=radical&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=Kowsalyakowsi582&theme=radical&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 ---
-⭐ _“The future belongs to those who code it.”_
+⭐ _“The future is shaped by those who dare to code it..”_
+
+
+<p align="left">
+  <img alt="Coder GIF" height=250 width=380 src="https://user-images.githubusercontent.com/74038190/236544207-c4f427b3-be04-4cfe-a3d2-2eabb0d2de73.gif"/></p>
