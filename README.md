@@ -100,8 +100,8 @@ I'm Kowsalya, a passionate <b>Software Developer</b> with expertise in <b>Full-s
 </p>
 
 ---
-⭐ _“The future is shaped by those who dare to code it..”_
+                                        ⭐ _“The future is shaped by those who dare to code it..”_
 
 
-<p align="left">
+<p align="center">
   <img alt="Coder GIF" height=250 width=380 src="https://user-images.githubusercontent.com/74038190/236544207-c4f427b3-be04-4cfe-a3d2-2eabb0d2de73.gif"/></p>
